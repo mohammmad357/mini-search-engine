@@ -1,0 +1,5 @@
+Classical Feedback Control
+
+A feedback control system measures its output and compares it with a desired reference. PID
+controllers combine proportional, integral, and derivative actions. Classical frequency-domain
+tools include Bode plots, Nyquist stability analysis, and gain and phase margins.

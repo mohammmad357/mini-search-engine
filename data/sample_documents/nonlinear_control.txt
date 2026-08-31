@@ -1,0 +1,5 @@
+Nonlinear Control Systems
+
+Nonlinear systems cannot always be described accurately with linear differential equations.
+Feedback linearization, Lyapunov stability, and nonlinear observers are common analysis and design
+techniques. A nonlinear controller can provide strong performance outside a local operating point.

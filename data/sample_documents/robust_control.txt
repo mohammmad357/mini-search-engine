@@ -1,0 +1,5 @@
+Robust Control under Uncertainty
+
+A robust controller maintains stability and acceptable performance despite model uncertainty and
+external disturbance. H-infinity methods, sensitivity functions, and structured singular values
+help engineers quantify robustness in a dynamic control system.

@@ -1,0 +1,5 @@
+Sliding Mode Control
+
+Sliding mode control is a nonlinear robust control technique. The controller drives system state
+toward a switching surface and then keeps it near that surface. Its strengths include disturbance
+rejection, while chattering is a practical implementation concern.

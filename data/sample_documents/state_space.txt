@@ -1,0 +1,5 @@
+State-Space Models
+
+A state-space model represents a dynamic system with a vector of internal state variables. Pole
+placement, controllability, observability, Kalman filtering, and linear quadratic regulation are
+central tools for modern control-system analysis and design.

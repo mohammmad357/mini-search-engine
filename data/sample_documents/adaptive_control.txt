@@ -1,0 +1,5 @@
+Adaptive Control Systems
+
+Adaptive control changes controller parameters while a system is operating. It is useful when
+plant dynamics are uncertain or vary over time. Model-reference adaptive control compares the
+plant output with a desired reference model and updates the controller from the tracking error.

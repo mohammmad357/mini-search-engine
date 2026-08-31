@@ -1,0 +1,5 @@
+Engineering Software with Python
+
+Python supports object-oriented design, type hints, dataclasses, exception handling, and structured
+logging. Dictionaries and sets make it practical to implement indexes and graph algorithms. Unit
+tests keep engineering software reliable while its architecture evolves.

@@ -1,0 +1,5 @@
+Information Retrieval Fundamentals
+
+An inverted index maps each searchable term to the documents that contain it. A query can use
+those postings to avoid scanning every document. Ranking functions such as TF-IDF assign larger
+weights to terms that are frequent in one document but rare across the collection.
