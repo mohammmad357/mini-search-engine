@@ -1,0 +1,2 @@
+# This project deliberately has no runtime dependencies.
+# Install the package with: python -m pip install .
